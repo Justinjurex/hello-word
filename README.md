@@ -1,2 +1,3 @@
-THis was my First hello world program to push to github. It has other html tags and code like <details> 
+<details> 
+This was my First hello world program to push to github. It has other html tags and code like details,summary... 
 All detailed inside 
